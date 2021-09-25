@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @laibazarshaid
+- 👀 I’m interested in writting Product Documentation...
+- 🌱 I’m currently learning SaaS products Documentation...
+- 📫 How to reach me Laibabintezarshaid@gmail.com...
+
+<!---
+laibazarshaid/laibazarshaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
